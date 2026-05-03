@@ -1,0 +1,519 @@
+OrderID	ProductName	CategoryName	SupplierName	Quantity	Price	Revenue
+10285	Chais	Beverages	Exotic Liquid	45	18	810
+10294	Chais	Beverages	Exotic Liquid	18	18	324
+10317	Chais	Beverages	Exotic Liquid	20	18	360
+10348	Chais	Beverages	Exotic Liquid	15	18	270
+10354	Chais	Beverages	Exotic Liquid	12	18	216
+10370	Chais	Beverages	Exotic Liquid	15	18	270
+10406	Chais	Beverages	Exotic Liquid	10	18	180
+10413	Chais	Beverages	Exotic Liquid	24	18	432
+10255	Chang	Beverages	Exotic Liquid	20	19	380
+10258	Chang	Beverages	Exotic Liquid	50	19	950
+10264	Chang	Beverages	Exotic Liquid	35	19	665
+10298	Chang	Beverages	Exotic Liquid	40	19	760
+10327	Chang	Beverages	Exotic Liquid	25	19	475
+10335	Chang	Beverages	Exotic Liquid	7	19	133
+10342	Chang	Beverages	Exotic Liquid	24	19	456
+10393	Chang	Beverages	Exotic Liquid	25	19	475
+10418	Chang	Beverages	Exotic Liquid	60	19	1140
+10435	Chang	Beverages	Exotic Liquid	10	19	190
+10440	Chang	Beverages	Exotic Liquid	45	19	855
+10254	Guaran† Fant†stica	Beverages	Refrescos Americanas LTDA	15	4.5	67.5
+10263	Guaran† Fant†stica	Beverages	Refrescos Americanas LTDA	28	4.5	126
+10275	Guaran† Fant†stica	Beverages	Refrescos Americanas LTDA	12	4.5	54
+10280	Guaran† Fant†stica	Beverages	Refrescos Americanas LTDA	12	4.5	54
+10281	Guaran† Fant†stica	Beverages	Refrescos Americanas LTDA	6	4.5	27
+10293	Guaran† Fant†stica	Beverages	Refrescos Americanas LTDA	10	4.5	45
+10352	Guaran† Fant†stica	Beverages	Refrescos Americanas LTDA	10	4.5	45
+10355	Guaran† Fant†stica	Beverages	Refrescos Americanas LTDA	25	4.5	112.5
+10358	Guaran† Fant†stica	Beverages	Refrescos Americanas LTDA	10	4.5	45
+10386	Guaran† Fant†stica	Beverages	Refrescos Americanas LTDA	15	4.5	67.5
+10387	Guaran† Fant†stica	Beverages	Refrescos Americanas LTDA	15	4.5	67.5
+10287	Sasquatch Ale	Beverages	Bigfoot Breweries	20	14	280
+10315	Sasquatch Ale	Beverages	Bigfoot Breweries	14	14	196
+10358	Sasquatch Ale	Beverages	Bigfoot Breweries	10	14	140
+10367	Sasquatch Ale	Beverages	Bigfoot Breweries	36	14	504
+10386	Sasquatch Ale	Beverages	Bigfoot Breweries	10	14	140
+10438	Sasquatch Ale	Beverages	Bigfoot Breweries	20	14	280
+10261	Steeleye Stout	Beverages	Bigfoot Breweries	20	18	360
+10281	Steeleye Stout	Beverages	Bigfoot Breweries	4	18	72
+10286	Steeleye Stout	Beverages	Bigfoot Breweries	100	18	1800
+10321	Steeleye Stout	Beverages	Bigfoot Breweries	10	18	180
+10324	Steeleye Stout	Beverages	Bigfoot Breweries	70	18	1260
+10390	Steeleye Stout	Beverages	Bigfoot Breweries	40	18	720
+10398	Steeleye Stout	Beverages	Bigfoot Breweries	30	18	540
+10400	Steeleye Stout	Beverages	Bigfoot Breweries	35	18	630
+10424	Steeleye Stout	Beverages	Bigfoot Breweries	60	18	1080
+10329	Cìte de Blaye	Beverages	Aux joyeux ecclÇsiastiques	20	263.5	5270
+10351	Cìte de Blaye	Beverages	Aux joyeux ecclÇsiastiques	20	263.5	5270
+10353	Cìte de Blaye	Beverages	Aux joyeux ecclÇsiastiques	50	263.5	13175
+10360	Cìte de Blaye	Beverages	Aux joyeux ecclÇsiastiques	10	263.5	2635
+10372	Cìte de Blaye	Beverages	Aux joyeux ecclÇsiastiques	40	263.5	10540
+10417	Cìte de Blaye	Beverages	Aux joyeux ecclÇsiastiques	50	263.5	13175
+10424	Cìte de Blaye	Beverages	Aux joyeux ecclÇsiastiques	49	263.5	12911.5
+10253	Chartreuse verte	Beverages	Aux joyeux ecclÇsiastiques	42	18	756
+10257	Chartreuse verte	Beverages	Aux joyeux ecclÇsiastiques	6	18	108
+10297	Chartreuse verte	Beverages	Aux joyeux ecclÇsiastiques	60	18	1080
+10305	Chartreuse verte	Beverages	Aux joyeux ecclÇsiastiques	30	18	540
+10323	Chartreuse verte	Beverages	Aux joyeux ecclÇsiastiques	4	18	72
+10347	Chartreuse verte	Beverages	Aux joyeux ecclÇsiastiques	50	18	900
+10361	Chartreuse verte	Beverages	Aux joyeux ecclÇsiastiques	54	18	972
+10377	Chartreuse verte	Beverages	Aux joyeux ecclÇsiastiques	20	18	360
+10270	Ipoh Coffee	Beverages	Leka Trading	25	46	1150
+10294	Ipoh Coffee	Beverages	Leka Trading	15	46	690
+10302	Ipoh Coffee	Beverages	Leka Trading	12	46	552
+10309	Ipoh Coffee	Beverages	Leka Trading	20	46	920
+10312	Ipoh Coffee	Beverages	Leka Trading	24	46	1104
+10340	Ipoh Coffee	Beverages	Leka Trading	40	46	1840
+10284	Laughing Lumberjack Lager	Beverages	Bigfoot Breweries	5	14	70
+10260	Outback Lager	Beverages	Pavlova, Ltd.	21	15	315
+10265	Outback Lager	Beverages	Pavlova, Ltd.	20	15	300
+10299	Outback Lager	Beverages	Pavlova, Ltd.	20	15	300
+10308	Outback Lager	Beverages	Pavlova, Ltd.	5	15	75
+10315	Outback Lager	Beverages	Pavlova, Ltd.	30	15	450
+10380	Outback Lager	Beverages	Pavlova, Ltd.	30	15	450
+10389	Outback Lager	Beverages	Pavlova, Ltd.	30	15	450
+10420	Outback Lager	Beverages	Pavlova, Ltd.	8	15	120
+10280	RhînbrÑu Klosterbier	Beverages	Plutzer Lebensmittelgro·mÑrkte AG	30	7.75	232.5
+10293	RhînbrÑu Klosterbier	Beverages	Plutzer Lebensmittelgro·mÑrkte AG	6	7.75	46.5
+10294	RhînbrÑu Klosterbier	Beverages	Plutzer Lebensmittelgro·mÑrkte AG	6	7.75	46.5
+10312	RhînbrÑu Klosterbier	Beverages	Plutzer Lebensmittelgro·mÑrkte AG	10	7.75	77.5
+10326	RhînbrÑu Klosterbier	Beverages	Plutzer Lebensmittelgro·mÑrkte AG	50	7.75	387.5
+10347	RhînbrÑu Klosterbier	Beverages	Plutzer Lebensmittelgro·mÑrkte AG	6	7.75	46.5
+10363	RhînbrÑu Klosterbier	Beverages	Plutzer Lebensmittelgro·mÑrkte AG	12	7.75	93
+10436	RhînbrÑu Klosterbier	Beverages	Plutzer Lebensmittelgro·mÑrkte AG	24	7.75	186
+10267	Lakkalikîîri	Beverages	Karkki Oy	15	18	270
+10273	Lakkalikîîri	Beverages	Karkki Oy	33	18	594
+10318	Lakkalikîîri	Beverages	Karkki Oy	6	18	108
+10319	Lakkalikîîri	Beverages	Karkki Oy	30	18	540
+10343	Lakkalikîîri	Beverages	Karkki Oy	15	18	270
+10363	Lakkalikîîri	Beverages	Karkki Oy	12	18	216
+10399	Lakkalikîîri	Beverages	Karkki Oy	35	18	630
+10413	Lakkalikîîri	Beverages	Karkki Oy	14	18	252
+10425	Lakkalikîîri	Beverages	Karkki Oy	20	18	360
+10434	Lakkalikîîri	Beverages	Karkki Oy	18	18	324
+10289	Aniseed Syrup	Condiments	Exotic Liquid	30	10	300
+10405	Aniseed Syrup	Condiments	Exotic Liquid	50	10	500
+10309	Chef Anton's Cajun Seasoning	Condiments	New Orleans Cajun Delights	20	22	440
+10326	Chef Anton's Cajun Seasoning	Condiments	New Orleans Cajun Delights	24	22	528
+10336	Chef Anton's Cajun Seasoning	Condiments	New Orleans Cajun Delights	18	22	396
+10339	Chef Anton's Cajun Seasoning	Condiments	New Orleans Cajun Delights	10	22	220
+10344	Chef Anton's Cajun Seasoning	Condiments	New Orleans Cajun Delights	35	22	770
+10258	Chef Anton's Gumbo Mix	Condiments	New Orleans Cajun Delights	65	21.35	1387.75
+10262	Chef Anton's Gumbo Mix	Condiments	New Orleans Cajun Delights	12	21.35	256.20000000000005
+10290	Chef Anton's Gumbo Mix	Condiments	New Orleans Cajun Delights	20	21.35	427
+10382	Chef Anton's Gumbo Mix	Condiments	New Orleans Cajun Delights	32	21.35	683.2
+10309	Grandma's Boysenberry Spread	Condiments	Grandma Kelly's Homestead	30	25	750
+10325	Grandma's Boysenberry Spread	Condiments	Grandma Kelly's Homestead	6	25	150
+10344	Northwoods Cranberry Sauce	Condiments	Grandma Kelly's Homestead	70	40	2800
+10345	Northwoods Cranberry Sauce	Condiments	Grandma Kelly's Homestead	70	40	2800
+10283	Genen Shouyu	Condiments	Mayumi's	20	15.5	310
+10323	Genen Shouyu	Condiments	Mayumi's	5	15.5	77.5
+10278	Gula Malacca	Condiments	Leka Trading	16	19.45	311.2
+10284	Gula Malacca	Condiments	Leka Trading	21	19.45	408.45
+10291	Gula Malacca	Condiments	Leka Trading	24	19.45	466.79999999999995
+10351	Gula Malacca	Condiments	Leka Trading	77	19.45	1497.6499999999999
+10411	Gula Malacca	Condiments	Leka Trading	40	19.45	778
+10418	Sirop d'Çrable	Condiments	Foràts d'Çrables	16	28.5	456
+10440	Sirop d'Çrable	Condiments	Foràts d'Çrables	90	28.5	2565
+10278	Vegie-spread	Condiments	Pavlova, Ltd.	8	43.9	351.2
+10293	Vegie-spread	Condiments	Pavlova, Ltd.	5	43.9	219.5
+10324	Vegie-spread	Condiments	Pavlova, Ltd.	80	43.9	3512
+10379	Vegie-spread	Condiments	Pavlova, Ltd.	16	43.9	702.4
+10402	Vegie-spread	Condiments	Pavlova, Ltd.	65	43.9	2853.5
+10429	Vegie-spread	Condiments	Pavlova, Ltd.	35	43.9	1536.5
+10250	Louisiana Fiery Hot Pepper Sauce	Condiments	New Orleans Cajun Delights	15	21.05	315.75
+10251	Louisiana Fiery Hot Pepper Sauce	Condiments	New Orleans Cajun Delights	20	21.05	421
+10303	Louisiana Fiery Hot Pepper Sauce	Condiments	New Orleans Cajun Delights	30	21.05	631.5
+10328	Louisiana Fiery Hot Pepper Sauce	Condiments	New Orleans Cajun Delights	40	21.05	842
+10351	Louisiana Fiery Hot Pepper Sauce	Condiments	New Orleans Cajun Delights	10	21.05	210.5
+10366	Louisiana Fiery Hot Pepper Sauce	Condiments	New Orleans Cajun Delights	5	21.05	105.25
+10367	Louisiana Fiery Hot Pepper Sauce	Condiments	New Orleans Cajun Delights	15	21.05	315.75
+10379	Louisiana Fiery Hot Pepper Sauce	Condiments	New Orleans Cajun Delights	20	21.05	421
+10401	Louisiana Fiery Hot Pepper Sauce	Condiments	New Orleans Cajun Delights	20	21.05	421
+10300	Louisiana Hot Spiced Okra	Condiments	New Orleans Cajun Delights	30	17	510
+10442	Louisiana Hot Spiced Okra	Condiments	New Orleans Cajun Delights	60	17	1020
+10256	Original Frankfurter grÅne So·e	Condiments	Plutzer Lebensmittelgro·mÑrkte AG	12	13	156
+10257	Original Frankfurter grÅne So·e	Condiments	Plutzer Lebensmittelgro·mÑrkte AG	15	13	195
+10290	Original Frankfurter grÅne So·e	Condiments	Plutzer Lebensmittelgro·mÑrkte AG	10	13	130
+10366	Original Frankfurter grÅne So·e	Condiments	Plutzer Lebensmittelgro·mÑrkte AG	5	13	65
+10367	Original Frankfurter grÅne So·e	Condiments	Plutzer Lebensmittelgro·mÑrkte AG	7	13	91
+10399	Original Frankfurter grÅne So·e	Condiments	Plutzer Lebensmittelgro·mÑrkte AG	14	13	182
+10417	Original Frankfurter grÅne So·e	Condiments	Plutzer Lebensmittelgro·mÑrkte AG	35	13	455
+10421	Original Frankfurter grÅne So·e	Condiments	Plutzer Lebensmittelgro·mÑrkte AG	10	13	130
+10255	Pavlova	Confections	Pavlova, Ltd.	35	17.45	610.75
+10263	Pavlova	Confections	Pavlova, Ltd.	60	17.45	1047
+10287	Pavlova	Confections	Pavlova, Ltd.	40	17.45	698
+10296	Pavlova	Confections	Pavlova, Ltd.	30	17.45	523.5
+10310	Pavlova	Confections	Pavlova, Ltd.	10	17.45	174.5
+10324	Pavlova	Confections	Pavlova, Ltd.	21	17.45	366.45
+10359	Pavlova	Confections	Pavlova, Ltd.	56	17.45	977.1999999999999
+10403	Pavlova	Confections	Pavlova, Ltd.	21	17.45	366.45
+10439	Pavlova	Confections	Pavlova, Ltd.	16	17.45	279.2
+10440	Pavlova	Confections	Pavlova, Ltd.	49	17.45	855.05
+10281	Teatime Chocolate Biscuits	Confections	Specialty Biscuits, Ltd.	1	9.2	9.2
+10283	Teatime Chocolate Biscuits	Confections	Specialty Biscuits, Ltd.	18	9.2	165.6
+10299	Teatime Chocolate Biscuits	Confections	Specialty Biscuits, Ltd.	15	9.2	138
+10329	Teatime Chocolate Biscuits	Confections	Specialty Biscuits, Ltd.	10	9.2	92
+10345	Teatime Chocolate Biscuits	Confections	Specialty Biscuits, Ltd.	80	9.2	736
+10414	Teatime Chocolate Biscuits	Confections	Specialty Biscuits, Ltd.	18	9.2	165.6
+10416	Teatime Chocolate Biscuits	Confections	Specialty Biscuits, Ltd.	20	9.2	184
+10421	Teatime Chocolate Biscuits	Confections	Specialty Biscuits, Ltd.	4	9.2	36.8
+10438	Teatime Chocolate Biscuits	Confections	Specialty Biscuits, Ltd.	15	9.2	138
+10252	Sir Rodney's Marmalade	Confections	Specialty Biscuits, Ltd.	40	81	3240
+10272	Sir Rodney's Marmalade	Confections	Specialty Biscuits, Ltd.	6	81	486
+10292	Sir Rodney's Marmalade	Confections	Specialty Biscuits, Ltd.	20	81	1620
+10372	Sir Rodney's Marmalade	Confections	Specialty Biscuits, Ltd.	12	81	972
+10384	Sir Rodney's Marmalade	Confections	Specialty Biscuits, Ltd.	28	81	2268
+10259	Sir Rodney's Scones	Confections	Specialty Biscuits, Ltd.	10	10	100
+10261	Sir Rodney's Scones	Confections	Specialty Biscuits, Ltd.	20	10	200
+10333	Sir Rodney's Scones	Confections	Specialty Biscuits, Ltd.	10	10	100
+10368	Sir Rodney's Scones	Confections	Specialty Biscuits, Ltd.	5	10	50
+10397	Sir Rodney's Scones	Confections	Specialty Biscuits, Ltd.	10	10	100
+10406	Sir Rodney's Scones	Confections	Specialty Biscuits, Ltd.	30	10	300
+10409	Sir Rodney's Scones	Confections	Specialty Biscuits, Ltd.	12	10	120
+10430	Sir Rodney's Scones	Confections	Specialty Biscuits, Ltd.	50	10	500
+10323	NuNuCa Nu·-Nougat-Creme	Confections	Heli SÅ·waren GmbH & Co. KG	4	14	56
+10347	NuNuCa Nu·-Nougat-Creme	Confections	Heli SÅ·waren GmbH & Co. KG	10	14	140
+10362	NuNuCa Nu·-Nougat-Creme	Confections	Heli SÅ·waren GmbH & Co. KG	50	14	700
+10393	NuNuCa Nu·-Nougat-Creme	Confections	Heli SÅ·waren GmbH & Co. KG	7	14	98
+10330	GumbÑr GummibÑrchen	Confections	Heli SÅ·waren GmbH & Co. KG	50	31.23	1561.5
+10337	GumbÑr GummibÑrchen	Confections	Heli SÅ·waren GmbH & Co. KG	24	31.23	749.52
+10357	GumbÑr GummibÑrchen	Confections	Heli SÅ·waren GmbH & Co. KG	16	31.23	499.68
+10393	GumbÑr GummibÑrchen	Confections	Heli SÅ·waren GmbH & Co. KG	70	31.23	2186.1
+10404	GumbÑr GummibÑrchen	Confections	Heli SÅ·waren GmbH & Co. KG	30	31.23	936.9
+10421	GumbÑr GummibÑrchen	Confections	Heli SÅ·waren GmbH & Co. KG	30	31.23	936.9
+10422	GumbÑr GummibÑrchen	Confections	Heli SÅ·waren GmbH & Co. KG	2	31.23	62.46
+10432	GumbÑr GummibÑrchen	Confections	Heli SÅ·waren GmbH & Co. KG	10	31.23	312.3
+10257	Schoggi Schokolade	Confections	Heli SÅ·waren GmbH & Co. KG	25	43.9	1097.5
+10284	Schoggi Schokolade	Confections	Heli SÅ·waren GmbH & Co. KG	15	43.9	658.5
+10441	Schoggi Schokolade	Confections	Heli SÅ·waren GmbH & Co. KG	50	43.9	2195
+10332	Zaanse koeken	Confections	Zaanse Snoepfabriek	16	9.5	152
+10418	Zaanse koeken	Confections	Zaanse Snoepfabriek	55	9.5	522.5
+10431	Zaanse koeken	Confections	Zaanse Snoepfabriek	30	9.5	285
+10403	Chocolade	Confections	Zaanse Snoepfabriek	70	12.75	892.5
+10253	Maxilaku	Confections	Karkki Oy	40	20	800
+10290	Maxilaku	Confections	Karkki Oy	15	20	300
+10304	Maxilaku	Confections	Karkki Oy	30	20	600
+10360	Maxilaku	Confections	Karkki Oy	35	20	700
+10400	Maxilaku	Confections	Karkki Oy	30	20	600
+10404	Maxilaku	Confections	Karkki Oy	30	20	600
+10350	Valkoinen suklaa	Confections	Karkki Oy	15	16.25	243.75
+10383	Valkoinen suklaa	Confections	Karkki Oy	15	16.25	243.75
+10429	Valkoinen suklaa	Confections	Karkki Oy	40	16.25	650
+10260	Tarte au sucre	Confections	Foràts d'Çrables	15	49.3	739.5
+10277	Tarte au sucre	Confections	Foràts d'Çrables	12	49.3	591.5999999999999
+10286	Tarte au sucre	Confections	Foràts d'Çrables	40	49.3	1972
+10298	Tarte au sucre	Confections	Foràts d'Çrables	15	49.3	739.5
+10307	Tarte au sucre	Confections	Foràts d'Çrables	10	49.3	493
+10310	Tarte au sucre	Confections	Foràts d'Çrables	5	49.3	246.5
+10314	Tarte au sucre	Confections	Foràts d'Çrables	25	49.3	1232.5
+10316	Tarte au sucre	Confections	Foràts d'Çrables	70	49.3	3451
+10339	Tarte au sucre	Confections	Foràts d'Çrables	28	49.3	1380.3999999999999
+10389	Tarte au sucre	Confections	Foràts d'Çrables	20	49.3	986
+10394	Tarte au sucre	Confections	Foràts d'Çrables	10	49.3	493
+10408	Tarte au sucre	Confections	Foràts d'Çrables	35	49.3	1725.5
+10413	Tarte au sucre	Confections	Foràts d'Çrables	40	49.3	1972
+10288	Scottish Longbreads	Confections	Specialty Biscuits, Ltd.	3	12.5	37.5
+10300	Scottish Longbreads	Confections	Specialty Biscuits, Ltd.	20	12.5	250
+10303	Scottish Longbreads	Confections	Specialty Biscuits, Ltd.	15	12.5	187.5
+10307	Scottish Longbreads	Confections	Specialty Biscuits, Ltd.	3	12.5	37.5
+10328	Scottish Longbreads	Confections	Specialty Biscuits, Ltd.	10	12.5	125
+10334	Scottish Longbreads	Confections	Specialty Biscuits, Ltd.	10	12.5	125
+10343	Scottish Longbreads	Confections	Specialty Biscuits, Ltd.	4	12.5	50
+10385	Scottish Longbreads	Confections	Specialty Biscuits, Ltd.	8	12.5	100
+10399	Scottish Longbreads	Confections	Specialty Biscuits, Ltd.	60	12.5	750
+10417	Scottish Longbreads	Confections	Specialty Biscuits, Ltd.	36	12.5	450
+10424	Scottish Longbreads	Confections	Specialty Biscuits, Ltd.	30	12.5	375
+10248	Queso Cabrales	Dairy Products	Cooperativa de Quesos 'Las Cabras'	12	21	252
+10296	Queso Cabrales	Dairy Products	Cooperativa de Quesos 'Las Cabras'	12	21	252
+10327	Queso Cabrales	Dairy Products	Cooperativa de Quesos 'Las Cabras'	50	21	1050
+10353	Queso Cabrales	Dairy Products	Cooperativa de Quesos 'Las Cabras'	12	21	252
+10365	Queso Cabrales	Dairy Products	Cooperativa de Quesos 'Las Cabras'	24	21	504
+10407	Queso Cabrales	Dairy Products	Cooperativa de Quesos 'Las Cabras'	30	21	630
+10434	Queso Cabrales	Dairy Products	Cooperativa de Quesos 'Las Cabras'	6	21	126
+10442	Queso Cabrales	Dairy Products	Cooperativa de Quesos 'Las Cabras'	30	21	630
+10443	Queso Cabrales	Dairy Products	Cooperativa de Quesos 'Las Cabras'	6	21	126
+10266	Queso Manchego La Pastora	Dairy Products	Cooperativa de Quesos 'Las Cabras'	12	38	456
+10439	Queso Manchego La Pastora	Dairy Products	Cooperativa de Quesos 'Las Cabras'	15	38	570
+10253	Gorgonzola Telino	Dairy Products	Formaggi Fortini s.r.l.	20	12.5	250
+10272	Gorgonzola Telino	Dairy Products	Formaggi Fortini s.r.l.	40	12.5	500
+10273	Gorgonzola Telino	Dairy Products	Formaggi Fortini s.r.l.	15	12.5	187.5
+10325	Gorgonzola Telino	Dairy Products	Formaggi Fortini s.r.l.	4	12.5	50
+10335	Gorgonzola Telino	Dairy Products	Formaggi Fortini s.r.l.	25	12.5	312.5
+10342	Gorgonzola Telino	Dairy Products	Formaggi Fortini s.r.l.	56	12.5	700
+10356	Gorgonzola Telino	Dairy Products	Formaggi Fortini s.r.l.	30	12.5	375
+10359	Gorgonzola Telino	Dairy Products	Formaggi Fortini s.r.l.	70	12.5	875
+10363	Gorgonzola Telino	Dairy Products	Formaggi Fortini s.r.l.	20	12.5	250
+10374	Gorgonzola Telino	Dairy Products	Formaggi Fortini s.r.l.	30	12.5	375
+10376	Gorgonzola Telino	Dairy Products	Formaggi Fortini s.r.l.	42	12.5	525
+10390	Gorgonzola Telino	Dairy Products	Formaggi Fortini s.r.l.	60	12.5	750
+10393	Gorgonzola Telino	Dairy Products	Formaggi Fortini s.r.l.	32	12.5	400
+10423	Gorgonzola Telino	Dairy Products	Formaggi Fortini s.r.l.	14	12.5	175
+10258	Mascarpone Fabioli	Dairy Products	Formaggi Fortini s.r.l.	6	32	192
+10314	Mascarpone Fabioli	Dairy Products	Formaggi Fortini s.r.l.	40	32	1280
+10335	Mascarpone Fabioli	Dairy Products	Formaggi Fortini s.r.l.	6	32	192
+10252	Geitost	Dairy Products	Norske Meierier	25	2.5	62.5
+10269	Geitost	Dairy Products	Norske Meierier	60	2.5	150
+10271	Geitost	Dairy Products	Norske Meierier	24	2.5	60
+10273	Geitost	Dairy Products	Norske Meierier	20	2.5	50
+10341	Geitost	Dairy Products	Norske Meierier	8	2.5	20
+10382	Geitost	Dairy Products	Norske Meierier	60	2.5	150
+10410	Geitost	Dairy Products	Norske Meierier	49	2.5	122.5
+10414	Geitost	Dairy Products	Norske Meierier	50	2.5	125
+10415	Geitost	Dairy Products	Norske Meierier	20	2.5	50
+10255	Raclette Courdavault	Dairy Products	Gai pÉturage	30	55	1650
+10267	Raclette Courdavault	Dairy Products	Gai pÉturage	70	55	3850
+10275	Raclette Courdavault	Dairy Products	Gai pÉturage	6	55	330
+10278	Raclette Courdavault	Dairy Products	Gai pÉturage	15	55	825
+10298	Raclette Courdavault	Dairy Products	Gai pÉturage	30	55	1650
+10304	Raclette Courdavault	Dairy Products	Gai pÉturage	10	55	550
+10324	Raclette Courdavault	Dairy Products	Gai pÉturage	40	55	2200
+10328	Raclette Courdavault	Dairy Products	Gai pÉturage	9	55	495
+10341	Raclette Courdavault	Dairy Products	Gai pÉturage	9	55	495
+10387	Raclette Courdavault	Dairy Products	Gai pÉturage	12	55	660
+10410	Raclette Courdavault	Dairy Products	Gai pÉturage	16	55	880
+10411	Raclette Courdavault	Dairy Products	Gai pÉturage	9	55	495
+10423	Raclette Courdavault	Dairy Products	Gai pÉturage	20	55	1100
+10430	Raclette Courdavault	Dairy Products	Gai pÉturage	70	55	3850
+10252	Camembert Pierrot	Dairy Products	Gai pÉturage	40	34	1360
+10283	Camembert Pierrot	Dairy Products	Gai pÉturage	35	34	1190
+10284	Camembert Pierrot	Dairy Products	Gai pÉturage	20	34	680
+10294	Camembert Pierrot	Dairy Products	Gai pÉturage	21	34	714
+10357	Camembert Pierrot	Dairy Products	Gai pÉturage	8	34	272
+10359	Camembert Pierrot	Dairy Products	Gai pÉturage	80	34	2720
+10361	Camembert Pierrot	Dairy Products	Gai pÉturage	55	34	1870
+10372	Camembert Pierrot	Dairy Products	Gai pÉturage	70	34	2380
+10380	Camembert Pierrot	Dairy Products	Gai pÉturage	6	34	204
+10384	Camembert Pierrot	Dairy Products	Gai pÉturage	15	34	510
+10385	Camembert Pierrot	Dairy Products	Gai pÉturage	20	34	680
+10419	Camembert Pierrot	Dairy Products	Gai pÉturage	60	34	2040
+10296	Gudbrandsdalsost	Dairy Products	Norske Meierier	15	36	540
+10308	Gudbrandsdalsost	Dairy Products	Norske Meierier	1	36	36
+10311	Gudbrandsdalsost	Dairy Products	Norske Meierier	7	36	252
+10350	Gudbrandsdalsost	Dairy Products	Norske Meierier	18	36	648
+10356	Gudbrandsdalsost	Dairy Products	Norske Meierier	20	36	720
+10364	Gudbrandsdalsost	Dairy Products	Norske Meierier	30	36	1080
+10392	Gudbrandsdalsost	Dairy Products	Norske Meierier	50	36	1800
+10395	Gudbrandsdalsost	Dairy Products	Norske Meierier	8	36	288
+10407	Gudbrandsdalsost	Dairy Products	Norske Meierier	15	36	540
+10419	Gudbrandsdalsost	Dairy Products	Norske Meierier	20	36	720
+10274	Flõtemysost	Dairy Products	Norske Meierier	20	21.5	430
+10304	Flõtemysost	Dairy Products	Norske Meierier	2	21.5	43
+10309	Flõtemysost	Dairy Products	Norske Meierier	3	21.5	64.5
+10320	Flõtemysost	Dairy Products	Norske Meierier	30	21.5	645
+10333	Flõtemysost	Dairy Products	Norske Meierier	40	21.5	860
+10364	Flõtemysost	Dairy Products	Norske Meierier	5	21.5	107.5
+10373	Flõtemysost	Dairy Products	Norske Meierier	50	21.5	1075
+10378	Flõtemysost	Dairy Products	Norske Meierier	6	21.5	129
+10387	Flõtemysost	Dairy Products	Norske Meierier	15	21.5	322.5
+10396	Flõtemysost	Dairy Products	Norske Meierier	60	21.5	1290
+10399	Flõtemysost	Dairy Products	Norske Meierier	30	21.5	645
+10401	Flõtemysost	Dairy Products	Norske Meierier	60	21.5	1290
+10407	Flõtemysost	Dairy Products	Norske Meierier	15	21.5	322.5
+10248	Mozzarella di Giovanni	Dairy Products	Formaggi Fortini s.r.l.	5	34.8	174
+10268	Mozzarella di Giovanni	Dairy Products	Formaggi Fortini s.r.l.	4	34.8	139.2
+10269	Mozzarella di Giovanni	Dairy Products	Formaggi Fortini s.r.l.	20	34.8	696
+10272	Mozzarella di Giovanni	Dairy Products	Formaggi Fortini s.r.l.	24	34.8	835.1999999999999
+10274	Mozzarella di Giovanni	Dairy Products	Formaggi Fortini s.r.l.	7	34.8	243.59999999999997
+10283	Mozzarella di Giovanni	Dairy Products	Formaggi Fortini s.r.l.	3	34.8	104.39999999999999
+10297	Mozzarella di Giovanni	Dairy Products	Formaggi Fortini s.r.l.	20	34.8	696
+10325	Mozzarella di Giovanni	Dairy Products	Formaggi Fortini s.r.l.	40	34.8	1392
+10330	Mozzarella di Giovanni	Dairy Products	Formaggi Fortini s.r.l.	25	34.8	869.9999999999999
+10337	Mozzarella di Giovanni	Dairy Products	Formaggi Fortini s.r.l.	25	34.8	869.9999999999999
+10372	Mozzarella di Giovanni	Dairy Products	Formaggi Fortini s.r.l.	42	34.8	1461.6
+10390	Mozzarella di Giovanni	Dairy Products	Formaggi Fortini s.r.l.	24	34.8	835.1999999999999
+10396	Mozzarella di Giovanni	Dairy Products	Formaggi Fortini s.r.l.	21	34.8	730.8
+10435	Mozzarella di Giovanni	Dairy Products	Formaggi Fortini s.r.l.	10	34.8	348
+10251	Gustaf's KnÑckebrîd	Grains/Cereals	PB KnÑckebrîd AB	6	21	126
+10435	Gustaf's KnÑckebrîd	Grains/Cereals	PB KnÑckebrîd AB	12	21	252
+10337	Tunnbrîd	Grains/Cereals	PB KnÑckebrîd AB	40	9	360
+10348	Tunnbrîd	Grains/Cereals	PB KnÑckebrîd AB	25	9	225
+10396	Tunnbrîd	Grains/Cereals	PB KnÑckebrîd AB	40	9	360
+10402	Tunnbrîd	Grains/Cereals	PB KnÑckebrîd AB	60	9	540
+10248	Singaporean Hokkien Fried Mee	Grains/Cereals	Leka Trading	10	14	140
+10309	Singaporean Hokkien Fried Mee	Grains/Cereals	Leka Trading	2	14	28
+10311	Singaporean Hokkien Fried Mee	Grains/Cereals	Leka Trading	6	14	84
+10332	Singaporean Hokkien Fried Mee	Grains/Cereals	Leka Trading	10	14	140
+10345	Singaporean Hokkien Fried Mee	Grains/Cereals	Leka Trading	9	14	126
+10404	Singaporean Hokkien Fried Mee	Grains/Cereals	Leka Trading	40	14	560
+10322	Filo Mix	Grains/Cereals	G'day, Mate	20	7	140
+10334	Filo Mix	Grains/Cereals	G'day, Mate	8	7	56
+10388	Filo Mix	Grains/Cereals	G'day, Mate	20	7	140
+10262	Gnocchi di nonna Alice	Grains/Cereals	Pasta Buttini s.r.l.	2	38	76
+10295	Gnocchi di nonna Alice	Grains/Cereals	Pasta Buttini s.r.l.	4	38	152
+10301	Gnocchi di nonna Alice	Grains/Cereals	Pasta Buttini s.r.l.	20	38	760
+10329	Gnocchi di nonna Alice	Grains/Cereals	Pasta Buttini s.r.l.	12	38	456
+10346	Gnocchi di nonna Alice	Grains/Cereals	Pasta Buttini s.r.l.	20	38	760
+10369	Gnocchi di nonna Alice	Grains/Cereals	Pasta Buttini s.r.l.	18	38	684
+10383	Gnocchi di nonna Alice	Grains/Cereals	Pasta Buttini s.r.l.	20	38	760
+10401	Gnocchi di nonna Alice	Grains/Cereals	Pasta Buttini s.r.l.	70	38	2660
+10426	Gnocchi di nonna Alice	Grains/Cereals	Pasta Buttini s.r.l.	5	38	190
+10430	Gnocchi di nonna Alice	Grains/Cereals	Pasta Buttini s.r.l.	30	38	1140
+10433	Gnocchi di nonna Alice	Grains/Cereals	Pasta Buttini s.r.l.	28	38	1064
+10436	Gnocchi di nonna Alice	Grains/Cereals	Pasta Buttini s.r.l.	40	38	1520
+10251	Ravioli Angelo	Grains/Cereals	Pasta Buttini s.r.l.	15	19.5	292.5
+10260	Ravioli Angelo	Grains/Cereals	Pasta Buttini s.r.l.	50	19.5	975
+10282	Ravioli Angelo	Grains/Cereals	Pasta Buttini s.r.l.	2	19.5	39
+10326	Ravioli Angelo	Grains/Cereals	Pasta Buttini s.r.l.	16	19.5	312
+10355	Ravioli Angelo	Grains/Cereals	Pasta Buttini s.r.l.	25	19.5	487.5
+10368	Ravioli Angelo	Grains/Cereals	Pasta Buttini s.r.l.	25	19.5	487.5
+10416	Ravioli Angelo	Grains/Cereals	Pasta Buttini s.r.l.	20	19.5	390
+10438	Ravioli Angelo	Grains/Cereals	Pasta Buttini s.r.l.	15	19.5	292.5
+10289	Wimmers gute Semmelknîdel	Grains/Cereals	Plutzer Lebensmittelgro·mÑrkte AG	9	33.25	299.25
+10343	Wimmers gute Semmelknîdel	Grains/Cereals	Plutzer Lebensmittelgro·mÑrkte AG	50	33.25	1662.5
+10368	Wimmers gute Semmelknîdel	Grains/Cereals	Plutzer Lebensmittelgro·mÑrkte AG	35	33.25	1163.75
+10370	Wimmers gute Semmelknîdel	Grains/Cereals	Plutzer Lebensmittelgro·mÑrkte AG	30	33.25	997.5
+10426	Wimmers gute Semmelknîdel	Grains/Cereals	Plutzer Lebensmittelgro·mÑrkte AG	7	33.25	232.75
+10436	Wimmers gute Semmelknîdel	Grains/Cereals	Plutzer Lebensmittelgro·mÑrkte AG	30	33.25	997.5
+10439	Wimmers gute Semmelknîdel	Grains/Cereals	Plutzer Lebensmittelgro·mÑrkte AG	6	33.25	199.5
+10420	Mishi Kobe Niku	Meat/Poultry	Tokyo Traders	20	97	1940
+10265	Alice Mutton	Meat/Poultry	Pavlova, Ltd.	30	39	1170
+10279	Alice Mutton	Meat/Poultry	Pavlova, Ltd.	15	39	585
+10294	Alice Mutton	Meat/Poultry	Pavlova, Ltd.	15	39	585
+10302	Alice Mutton	Meat/Poultry	Pavlova, Ltd.	40	39	1560
+10319	Alice Mutton	Meat/Poultry	Pavlova, Ltd.	8	39	312
+10338	Alice Mutton	Meat/Poultry	Pavlova, Ltd.	20	39	780
+10339	Alice Mutton	Meat/Poultry	Pavlova, Ltd.	70	39	2730
+10346	Alice Mutton	Meat/Poultry	Pavlova, Ltd.	36	39	1404
+10415	Alice Mutton	Meat/Poultry	Pavlova, Ltd.	2	39	78
+10430	Alice Mutton	Meat/Poultry	Pavlova, Ltd.	45	39	1755
+10431	Alice Mutton	Meat/Poultry	Pavlova, Ltd.	50	39	1950
+10268	ThÅringer Rostbratwurst	Meat/Poultry	Plutzer Lebensmittelgro·mÑrkte AG	10	123.79	1237.9
+10290	ThÅringer Rostbratwurst	Meat/Poultry	Plutzer Lebensmittelgro·mÑrkte AG	15	123.79	1856.8500000000001
+10305	ThÅringer Rostbratwurst	Meat/Poultry	Plutzer Lebensmittelgro·mÑrkte AG	25	123.79	3094.75
+10354	ThÅringer Rostbratwurst	Meat/Poultry	Plutzer Lebensmittelgro·mÑrkte AG	4	123.79	495.16
+10360	ThÅringer Rostbratwurst	Meat/Poultry	Plutzer Lebensmittelgro·mÑrkte AG	35	123.79	4332.650000000001
+10369	ThÅringer Rostbratwurst	Meat/Poultry	Plutzer Lebensmittelgro·mÑrkte AG	20	123.79	2475.8
+10382	ThÅringer Rostbratwurst	Meat/Poultry	Plutzer Lebensmittelgro·mÑrkte AG	14	123.79	1733.0600000000002
+10400	ThÅringer Rostbratwurst	Meat/Poultry	Plutzer Lebensmittelgro·mÑrkte AG	21	123.79	2599.59
+10440	ThÅringer Rostbratwurst	Meat/Poultry	Plutzer Lebensmittelgro·mÑrkte AG	24	123.79	2970.96
+10256	Perth Pasties	Meat/Poultry	G'day, Mate	15	32.8	491.99999999999994
+10285	Perth Pasties	Meat/Poultry	G'day, Mate	36	32.8	1180.8
+10306	Perth Pasties	Meat/Poultry	G'day, Mate	10	32.8	328
+10312	Perth Pasties	Meat/Poultry	G'day, Mate	20	32.8	656
+10380	Perth Pasties	Meat/Poultry	G'day, Mate	20	32.8	656
+10388	Perth Pasties	Meat/Poultry	G'day, Mate	40	32.8	1312
+10395	Perth Pasties	Meat/Poultry	G'day, Mate	70	32.8	2296
+10416	Perth Pasties	Meat/Poultry	G'day, Mate	10	32.8	328
+10421	Perth Pasties	Meat/Poultry	G'day, Mate	15	32.8	491.99999999999994
+10437	Perth Pasties	Meat/Poultry	G'day, Mate	15	32.8	491.99999999999994
+10288	Tourtiäre	Meat/Poultry	Ma Maison	10	7.45	74.5
+10306	Tourtiäre	Meat/Poultry	Ma Maison	5	7.45	37.25
+10331	Tourtiäre	Meat/Poultry	Ma Maison	15	7.45	111.75
+10349	Tourtiäre	Meat/Poultry	Ma Maison	24	7.45	178.8
+10352	Tourtiäre	Meat/Poultry	Ma Maison	20	7.45	149
+10360	Tourtiäre	Meat/Poultry	Ma Maison	28	7.45	208.6
+10362	Tourtiäre	Meat/Poultry	Ma Maison	24	7.45	178.8
+10367	Tourtiäre	Meat/Poultry	Ma Maison	18	7.45	134.1
+10375	Tourtiäre	Meat/Poultry	Ma Maison	10	7.45	74.5
+10408	Tourtiäre	Meat/Poultry	Ma Maison	6	7.45	44.7
+10432	Tourtiäre	Meat/Poultry	Ma Maison	40	7.45	298
+10442	Tourtiäre	Meat/Poultry	Ma Maison	80	7.45	596
+10254	PÉtÇ chinois	Meat/Poultry	Ma Maison	21	24	504
+10280	PÉtÇ chinois	Meat/Poultry	Ma Maison	20	24	480
+10342	PÉtÇ chinois	Meat/Poultry	Ma Maison	40	24	960
+10356	PÉtÇ chinois	Meat/Poultry	Ma Maison	12	24	288
+10389	PÉtÇ chinois	Meat/Poultry	Ma Maison	15	24	360
+10398	PÉtÇ chinois	Meat/Poultry	Ma Maison	120	24	2880
+10425	PÉtÇ chinois	Meat/Poultry	Ma Maison	10	24	240
+10262	Uncle Bob's Organic Dried Pears	Produce	Grandma Kelly's Homestead	15	30	450
+10385	Uncle Bob's Organic Dried Pears	Produce	Grandma Kelly's Homestead	10	30	300
+10249	Tofu	Produce	Mayumi's	9	23.25	209.25
+10325	Tofu	Produce	Mayumi's	9	23.25	209.25
+10333	Tofu	Produce	Mayumi's	10	23.25	232.5
+10375	Tofu	Produce	Mayumi's	15	23.25	348.75
+10393	Tofu	Produce	Mayumi's	42	23.25	976.5
+10409	Tofu	Produce	Mayumi's	12	23.25	279
+10412	Tofu	Produce	Mayumi's	20	23.25	465
+10427	Tofu	Produce	Mayumi's	35	23.25	813.75
+10277	Rîssle Sauerkraut	Produce	Plutzer Lebensmittelgro·mÑrkte AG	20	45.6	912
+10302	Rîssle Sauerkraut	Produce	Plutzer Lebensmittelgro·mÑrkte AG	28	45.6	1276.8
+10312	Rîssle Sauerkraut	Produce	Plutzer Lebensmittelgro·mÑrkte AG	4	45.6	182.4
+10319	Rîssle Sauerkraut	Produce	Plutzer Lebensmittelgro·mÑrkte AG	14	45.6	638.4
+10360	Rîssle Sauerkraut	Produce	Plutzer Lebensmittelgro·mÑrkte AG	30	45.6	1368
+10368	Rîssle Sauerkraut	Produce	Plutzer Lebensmittelgro·mÑrkte AG	13	45.6	592.8000000000001
+10377	Rîssle Sauerkraut	Produce	Plutzer Lebensmittelgro·mÑrkte AG	20	45.6	912
+10387	Rîssle Sauerkraut	Produce	Plutzer Lebensmittelgro·mÑrkte AG	6	45.6	273.6
+10406	Rîssle Sauerkraut	Produce	Plutzer Lebensmittelgro·mÑrkte AG	42	45.6	1915.2
+10443	Rîssle Sauerkraut	Produce	Plutzer Lebensmittelgro·mÑrkte AG	12	45.6	547.2
+10249	Manjimup Dried Apples	Produce	G'day, Mate	40	53	2120
+10250	Manjimup Dried Apples	Produce	G'day, Mate	35	53	1855
+10291	Manjimup Dried Apples	Produce	G'day, Mate	2	53	106
+10335	Manjimup Dried Apples	Produce	G'day, Mate	48	53	2544
+10362	Manjimup Dried Apples	Produce	G'day, Mate	20	53	1060
+10397	Manjimup Dried Apples	Produce	G'day, Mate	18	53	954
+10254	Longlife Tofu	Produce	Tokyo Traders	21	10	210
+10263	Longlife Tofu	Produce	Tokyo Traders	36	10	360
+10370	Longlife Tofu	Produce	Tokyo Traders	20	10	200
+10381	Longlife Tofu	Produce	Tokyo Traders	14	10	140
+10382	Longlife Tofu	Produce	Tokyo Traders	50	10	500
+10418	Longlife Tofu	Produce	Tokyo Traders	15	10	150
+10439	Longlife Tofu	Produce	Tokyo Traders	30	10	300
+10273	Ikura	Seafood	Tokyo Traders	24	31	744
+10276	Ikura	Seafood	Tokyo Traders	15	31	465
+10357	Ikura	Seafood	Tokyo Traders	30	31	930
+10389	Ikura	Seafood	Tokyo Traders	16	31	496
+10276	Konbu	Seafood	Mayumi's	10	6	60
+10291	Konbu	Seafood	Mayumi's	20	6	120
+10325	Konbu	Seafood	Mayumi's	12	6	72
+10383	Konbu	Seafood	Mayumi's	20	6	120
+10391	Konbu	Seafood	Mayumi's	18	6	108
+10394	Konbu	Seafood	Mayumi's	10	6	60
+10420	Konbu	Seafood	Mayumi's	2	6	12
+10293	Carnarvon Tigers	Seafood	Pavlova, Ltd.	12	62.5	750
+10305	Carnarvon Tigers	Seafood	Pavlova, Ltd.	25	62.5	1562.5
+10332	Carnarvon Tigers	Seafood	Pavlova, Ltd.	40	62.5	2500
+10340	Carnarvon Tigers	Seafood	Pavlova, Ltd.	20	62.5	1250
+10382	Carnarvon Tigers	Seafood	Pavlova, Ltd.	9	62.5	562.5
+10263	Nord-Ost Matjeshering	Seafood	Nord-Ost-Fisch Handelsgesellschaft mbH	60	25.89	1553.4
+10282	Nord-Ost Matjeshering	Seafood	Nord-Ost-Fisch Handelsgesellschaft mbH	6	25.89	155.34
+10306	Nord-Ost Matjeshering	Seafood	Nord-Ost-Fisch Handelsgesellschaft mbH	10	25.89	258.9
+10327	Nord-Ost Matjeshering	Seafood	Nord-Ost-Fisch Handelsgesellschaft mbH	35	25.89	906.15
+10329	Nord-Ost Matjeshering	Seafood	Nord-Ost-Fisch Handelsgesellschaft mbH	8	25.89	207.12
+10338	Nord-Ost Matjeshering	Seafood	Nord-Ost-Fisch Handelsgesellschaft mbH	15	25.89	388.35
+10380	Nord-Ost Matjeshering	Seafood	Nord-Ost-Fisch Handelsgesellschaft mbH	18	25.89	466.02
+10401	Nord-Ost Matjeshering	Seafood	Nord-Ost-Fisch Handelsgesellschaft mbH	18	25.89	466.02
+10255	Inlagd Sill	Seafood	Svensk Sjîfîda AB	25	19	475
+10270	Inlagd Sill	Seafood	Svensk Sjîfîda AB	30	19	570
+10298	Inlagd Sill	Seafood	Svensk Sjîfîda AB	40	19	760
+10313	Inlagd Sill	Seafood	Svensk Sjîfîda AB	12	19	228
+10337	Inlagd Sill	Seafood	Svensk Sjîfîda AB	20	19	380
+10342	Inlagd Sill	Seafood	Svensk Sjîfîda AB	40	19	760
+10358	Inlagd Sill	Seafood	Svensk Sjîfîda AB	20	19	380
+10371	Inlagd Sill	Seafood	Svensk Sjîfîda AB	6	19	114
+10406	Inlagd Sill	Seafood	Svensk Sjîfîda AB	5	19	95
+10259	Gravad lax	Seafood	Svensk Sjîfîda AB	1	26	26
+10337	Gravad lax	Seafood	Svensk Sjîfîda AB	28	26	728
+10408	Gravad lax	Seafood	Svensk Sjîfîda AB	10	26	260
+10267	Boston Crab Meat	Seafood	New England Seafood Cannery	50	18.4	919.9999999999999
+10273	Boston Crab Meat	Seafood	New England Seafood Cannery	60	18.4	1104
+10285	Boston Crab Meat	Seafood	New England Seafood Cannery	40	18.4	736
+10301	Boston Crab Meat	Seafood	New England Seafood Cannery	10	18.4	184
+10303	Boston Crab Meat	Seafood	New England Seafood Cannery	40	18.4	736
+10347	Boston Crab Meat	Seafood	New England Seafood Cannery	4	18.4	73.6
+10406	Boston Crab Meat	Seafood	New England Seafood Cannery	2	18.4	36.8
+10431	Boston Crab Meat	Seafood	New England Seafood Cannery	50	18.4	919.9999999999999
+10250	Jack's New England Clam Chowder	Seafood	New England Seafood Cannery	10	9.65	96.5
+10260	Jack's New England Clam Chowder	Seafood	New England Seafood Cannery	16	9.65	154.4
+10264	Jack's New England Clam Chowder	Seafood	New England Seafood Cannery	25	9.65	241.25
+10316	Jack's New England Clam Chowder	Seafood	New England Seafood Cannery	10	9.65	96.5
+10318	Jack's New England Clam Chowder	Seafood	New England Seafood Cannery	20	9.65	193
+10340	Jack's New England Clam Chowder	Seafood	New England Seafood Cannery	12	9.65	115.80000000000001
+10351	Jack's New England Clam Chowder	Seafood	New England Seafood Cannery	13	9.65	125.45
+10379	Jack's New England Clam Chowder	Seafood	New England Seafood Cannery	8	9.65	77.2
+10411	Jack's New England Clam Chowder	Seafood	New England Seafood Cannery	25	9.65	241.25
+10388	Rõgede sild	Seafood	Lyngbysild	15	9.5	142.5
+10287	Spegesild	Seafood	Lyngbysild	15	12	180
+10324	Spegesild	Seafood	Lyngbysild	30	12	360
+10390	Spegesild	Seafood	Lyngbysild	45	12	540
+10395	Spegesild	Seafood	Lyngbysild	28	12	336
+10417	Spegesild	Seafood	Lyngbysild	2	12	24
+10428	Spegesild	Seafood	Lyngbysild	20	12	240
+10436	Spegesild	Seafood	Lyngbysild	5	12	60
+10314	Escargots de Bourgogne	Seafood	Escargots Nouveaux	30	13.25	397.5
+10327	Escargots de Bourgogne	Seafood	Escargots Nouveaux	30	13.25	397.5
+10373	Escargots de Bourgogne	Seafood	Escargots Nouveaux	80	13.25	1060
+10374	Escargots de Bourgogne	Seafood	Escargots Nouveaux	15	13.25	198.75
+10278	Rîd Kaviar	Seafood	Svensk Sjîfîda AB	25	15	375
+10420	Rîd Kaviar	Seafood	Svensk Sjîfîda AB	20	15	300
